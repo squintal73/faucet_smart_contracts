@@ -16,7 +16,11 @@ You will also see any lint errors in the console.
 
 ### `Install metamask - Wallet`
 
-Install Metamask - wallet to integration for app;
+Integrate with the MetaMask wallet
+
+Integrate your dapp with the MetaMask wallet using the MetaMask Ethereum provider API, which enables 
+your dapp to interact with its users' Ethereum accounts. We recommend using MetaMask SDK to easily 
+enable your users to connect to their MetaMask wallet client from any platform.
 
 See the section about [https://docs.metamask.io/wallet]
 
