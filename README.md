@@ -18,6 +18,8 @@ You will also see any lint errors in the console.
 
 Install Metamask - wallet to integration for app;
 
+See the section about [https://docs.metamask.io/wallet]
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
